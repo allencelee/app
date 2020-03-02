@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://127.0.0.1/apps/RongWallet.ipa</string>
+					<string>https://github.com/allencelee/app/raw/master/RongWallet.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
